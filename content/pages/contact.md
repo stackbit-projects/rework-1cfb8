@@ -31,6 +31,7 @@ sections:
           - Automation
           - Data Transformation
           - Web Application
+          - lorem-ipsum
       - input_type: textarea
         name: message
         label: Message
