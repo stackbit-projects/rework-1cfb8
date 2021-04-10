@@ -31,7 +31,7 @@ sections:
           - Automation
           - Data Transformation
           - Web Application
-          - eliboM
+          - Mobile
       - input_type: textarea
         name: message
         label: Message
