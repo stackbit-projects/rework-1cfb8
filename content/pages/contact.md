@@ -30,7 +30,7 @@ sections:
         options:
           - Automation
           - Data Transformation
-          - Digital
+          - Web Application
       - input_type: textarea
         name: message
         label: Message
