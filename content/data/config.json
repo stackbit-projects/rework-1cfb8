@@ -5,7 +5,6 @@
     "accent_color": "green",
     "base_font": "fraunces",
     "header": {
-        "title": "PBD Labs",
         "logo": "images/GreenLogoNoWords.png",
         "logo_alt": "PBD Labs",
         "has_nav": true,
