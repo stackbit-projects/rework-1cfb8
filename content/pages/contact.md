@@ -29,7 +29,7 @@ sections:
         default_value: Please select
         options:
           - Automation
-          - Data Transform
+          - Data Transformation
           - Digital
       - input_type: textarea
         name: message
