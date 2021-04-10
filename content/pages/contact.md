@@ -44,7 +44,7 @@ sections:
       - input_type: number
         name: lorem-ipsum
         label: Phone number
-        default_value: lorem-ipsum
+        default_value: '555'
         options: []
         is_required: false
         type: form_field
