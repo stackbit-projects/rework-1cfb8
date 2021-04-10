@@ -42,7 +42,7 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
       - input_type: number
-        name: lorem-ipsum
+        name: Phone number
         label: Phone number
         default_value: 555-555-5555
         options: []
