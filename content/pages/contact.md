@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact Information
 hide_title: false
 sections:
   - type: form_section
