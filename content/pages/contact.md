@@ -43,7 +43,7 @@ sections:
           can be contacted.
       - input_type: number
         name: lorem-ipsum
-        label: lorem-ipsum
+        label: Phone number
         default_value: lorem-ipsum
         options: []
         is_required: false
